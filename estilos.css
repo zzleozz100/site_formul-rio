@@ -1,0 +1,22 @@
+.logo{
+    width: 125px;
+    height: auto;
+}
+.linha-azul {
+    width: 100%; /* A linha ocupará toda a largura disponível */
+    height: 5px; /* Espessura da linha */
+    background-color: #20b2aa; /* Cor da linha */
+    margin-bottom: 10px; /* Espaço entre a linha e a tabela */
+}
+
+.saosebastiao{
+    width: 100%;
+    height: 280px;
+}
+.linha-cinza {
+    width: 100%; /* A linha ocupará toda a largura disponível */
+    height: 1px; /* Define a linha bem fina */
+    background-color: #cccccc; /* Cor cinza clara */
+    margin: 10px 0; /* Espaçamento acima e abaixo da linha */
+}
+
